@@ -16,7 +16,7 @@
 - **Web Development:** HTML, CSS, JavaScript  
 - **Databases:** SQL, MySQL  
 - **Software Engineering:** OOP, Design Patterns, Agile  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Windos
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Windows
 
 ---
 
