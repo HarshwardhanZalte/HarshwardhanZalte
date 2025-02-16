@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-- 🔭 I’m currently studying Computer Engineering at Smt. Indira Gandhi College of Engineering.
+- 🔭 I’m currently studying Computer Engineering at Smt. Indira Gandhi College of Engineering, Navi Mumbai.
 - 🌱 I’m passionate about software development and eager to learn new technologies.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Java, Python, C/C++, or anything related to computer science!
@@ -13,11 +13,12 @@
 ---
 
 ## 🚀 Skills
-- **Languages:** Java, Python, C, C++, PHP  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Databases:** SQL, MySQL  
+- **Languages:** Python, Java, C, C++, PHP 
+- **Web Development:** HTML, CSS, JavaScript
+- **Technologies:** MERN, Django  
+- **Databases:** SQL, MySQL, Firebase, MongoDB  
 - **Software Engineering:** OOP, Design Patterns, Agile  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Windows
+- **Tools & Platforms:** Git, VS Code, Postman, Android Studio, Linux, Windows
 
 ---
 
