@@ -13,10 +13,12 @@
 ---
 
 ## 🚀 Skills
-- **Languages:** Python, Java, C, C++, PHP 
+- **Languages:** Python, Java, C, C++, PHP, VB.Net
 - **Web Development:** HTML, CSS, JavaScript, MERN, Django 
 - **Databases:** SQL, MySQL, Firebase, MongoDB  
-- **Software Engineering:** OOP, Design Patterns, Agile, System Design, SDLC  
+- **Software Engineering:** OOP, Design Patterns, Agile, System Design, SDLC
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD
+- **Machine Learning & AI:** TensorFlow, PyTorch, Data Science  
 - **Tools & Platforms:** Git, VS Code, Postman, Android Studio, Linux, Windows
  
 ---
