@@ -17,7 +17,7 @@
 - **Web Development:** HTML, CSS, JavaScript
 - **Technologies:** MERN, Django  
 - **Databases:** SQL, MySQL, Firebase, MongoDB  
-- **Software Engineering:** OOP, Design Patterns, Agile  
+- **Software Engineering:** OOP, Design Patterns, Agile, System Design, SDLC  
 - **Tools & Platforms:** Git, VS Code, Postman, Android Studio, Linux, Windows
 
 ---
