@@ -5,7 +5,7 @@
 ## About Me
 - 🔭 I’m currently studying Computer Engineering at Smt. Indira Gandhi College of Engineering, Navi Mumbai.
 - 🌱 I’m passionate about software development and eager to learn new technologies.
-- 👯 I’m looking to collaborate on projects.
+- 👯 I’m looking to collaborate on projects and Internship Opportunities.
 - 💬 Ask me about Java, Python, C/C++, or anything related to computer science!
 - 📫 How to reach me: harshwardhanzalte@gmail.com.
 - ⚡ Fun fact: *I love problem-solving, participating in coding challenges and developing new products!*
