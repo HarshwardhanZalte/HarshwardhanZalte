@@ -49,3 +49,8 @@
 
 ⭐ **Feel free to check out my repositories and connect with me!** 🚀  
 
+[![Profile views](https://komarev.com/ghpvc/?username=HarshwardhanZalte&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://linktr.ee/HarshwardhanZalte)
+[![Wakatime Profile](https://wakatime.com/badge/user/018be760-4a7d-4395-9274-cc01f2dffbad.svg?style=for-the-badge)](https://wakatime.com/@HarshwardhanZalte)
+[![Profile Followers](https://custom-icon-badges.demolab.com/github/followers/HarshwardhanZalte?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/HarshwardhanZalte?tab=followers)
+[![Profile Stars](https://custom-icon-badges.demolab.com/github/stars/HarshwardhanZalte?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/HarshwardhanZalte?tab=repositories)
+[![Email](https://custom-icon-badges.demolab.com/badge/EMAIL-red?style=for-the-badge&logo=rb-atemail48-white)](mailto:harshwardhanzalte9@gmail.com)
