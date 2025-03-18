@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on projects and Internship Opportunities.
 - 💬 Ask me about Java, Python, C/C++, or anything related to computer science!
 - 📫 How to reach me: harshwardhanzalte@gmail.com.
-- ⚡ Fun fact: *I love problem-solving, participating in coding challenges and developing new products!*
+- ⚡ *I love problem-solving, participating in coding challenges and developing new products!*
 
 ---
 
