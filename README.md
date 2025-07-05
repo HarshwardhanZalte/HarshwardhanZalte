@@ -13,10 +13,11 @@
 ---
 
 ## 🚀 Skills
-- **Languages:** Python, Java, C, C++, PHP, VB.Net
-- **Web Development:** HTML, CSS, JavaScript, MERN, Django 
-- **Databases:** SQL, MySQL, Firebase, MongoDB  
-- **Tools & Platforms:** Git, VS Code, Postman, Android Studio, Linux, Windows
+- **Languages:** Python, Java, C, C++, PHP, JavaScript (ES6+), TypeScript 
+- **Web & App Development:** HTML5, CSS3, Node.js, Express.js, React.js, Django, Bootstrap, Tailwind, REST APIs, Android(Java) 
+- **Databases & Cloud:** MySQL, MongoDB, Firebase, PostgreSQL, Google Cloud, Docker, Git 
+- **AI/ML:** Pandas, NumPy, Scikit-learn, TensorFlow 
+- **Tools:** VS Code, Postman, Linux (Ubuntu), Figma, Microsoft Office 
  
 ---
 
