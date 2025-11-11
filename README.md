@@ -6,17 +6,16 @@
 - 🔭 I’m currently studying Computer Engineering at Smt. Indira Gandhi College of Engineering, Navi Mumbai.
 - 🌱 I’m passionate about software development and eager to learn new technologies.
 - 👯 I’m looking to collaborate on projects and Internship Opportunities.
-- 💬 Ask me about Java, Python, C/C++, or anything related to computer science!
 - 📫 How to reach me: harshwardhanzalte@gmail.com.
 - ⚡ *I love problem-solving, participating in coding challenges and developing new products!*
 
 
 ## 🚀 Skills
-- **Languages:** Python, Java, C, C++, PHP, JavaScript (ES6+), TypeScript 
-- **Web & App Development:** HTML5, CSS3, Node.js, Express.js, React.js, Django, Bootstrap, Tailwind, REST APIs, Android(Java) 
-- **Databases & Cloud:** MySQL, MongoDB, Firebase, PostgreSQL, Google Cloud, Docker, Git 
-- **AI/ML:** Pandas, NumPy, Scikit-learn, TensorFlow 
-- **Tools:** VS Code, Postman, Linux (Ubuntu), Figma, Microsoft Office 
+- **Programming Languages:** Python, Java, C, C++, PHP, VB.Net, JavaScript (ES6+), TypeScript, SQL 
+- **Web & Mobile Development:** HTML5, CSS3, React.js, Node.js, Express.js, Django, Django REST Framework (DRF), Bootstrap, Tailwind CSS, REST APIs, GraphQL, Ionic, Capacitor, Android (Java) 
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Redis, SQLite 
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Render, Google Cloud, Git, GitHub, GitHub Actions, CI/CD Pipelines, HashiCorp Vault, Linux  
+- **AI / Machine Learning:** TensorFlow, Keras, scikit-learn, Pandas, NumPy, LangChain, Ollama, LLMs, Matplotlib
  
 
 ## 🎓 Education
