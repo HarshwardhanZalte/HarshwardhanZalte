@@ -2,7 +2,7 @@
 # Hi there, I'm Harshwardhan! 👋
 
 ## About Me
-- 🔭 I’m currently studying Computer Engineering at Smt. Indira Gandhi College of Engineering, Navi Mumbai.
+- 🔭 I’m currently studying Computer Engineering.
 - 🌱 I’m passionate about software development and eager to learn new technologies.
 - 👯 I’m looking to collaborate on projects and Internship Opportunities.
 - 📫 How to reach me: harshwardhanzalte@gmail.com.
