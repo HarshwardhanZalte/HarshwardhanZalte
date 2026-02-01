@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on projects and Internship Opportunities.
 - 📫 How to reach me: harshwardhanzalte@gmail.com.
 - ⚡ *I love problem-solving, participating in coding challenges and developing new products!*
+- 🔗 Me: https://harshwardhanzalte.in/
 
 ## 🎓 Education
 - Diploma in Computer Technology (2024)
