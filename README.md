@@ -20,14 +20,6 @@ Building scalable backend systems, AI-powered applications, and cloud-native pro
 - 🌱 Currently learning Kubernetes, AWS and advanced backend architecture
 - ⚡ *I love problem-solving, participating in coding challenges and developing new products!*
 
-## 🔥 Currently Working On
-
-- 🚀 EKNA — Enterprise Knowledge Navigation Assistant
-- 🤖 AI Agent based applications
-- ☁️ Cloud deployment using AWS
-- 📚 DSA & System Design
-- 🌍 Open Source Contributions
-
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://harshwardhanzalte.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshwardhan-zalte)
